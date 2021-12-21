@@ -1,0 +1,19 @@
+.register-path
+{
+	margin-top:20px;
+	padding-bottom:10px;
+	text-align:center;
+	font-family: Arial, Helvetica, sans-serif;
+	color:black;
+	font-size:15px;
+}
+.register-path a
+{
+	color:blue;
+	text-decoration:none;
+}
+.register-path a:hover
+{
+	color:green;
+	text-decoration:none;
+}

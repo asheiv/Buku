@@ -1,0 +1,30 @@
+.login-head
+{
+	font-family:verdana;
+	font-size:30px;
+	text-align:center;
+	font-weight:lighter;
+}
+.login-box
+{
+	float:left;
+	width:400px;
+	height:auto;
+	background-color:white;
+	padding-top:15px;
+	padding-left:15px;
+	padding-right:15px;
+	margin-left:450px;
+	margin-top:150px;
+	border-radius:15%;
+}
+.login-checkbox
+{
+	float:right
+}
+.login-text
+{
+	margin-top:9px;
+	font-family:"Times New Roman", Times, serif;
+	color:black;
+}
